@@ -4,3 +4,5 @@
 /composer.lock
 /tests/data.*
 /vendor/
+config.bat
+node_modules
